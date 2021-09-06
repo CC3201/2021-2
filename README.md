@@ -11,3 +11,4 @@ Clase               | Video
 [02 - Modelo ER](https://github.com/CC3201/2021-2/raw/main/Clases/02-Modelo_ER.pdf) | [Sección 1](https://users.dcc.uchile.cl/~cgutierr/cursos/BD2021/clase2-modeloER.mp4), [Sección 2](https://users.dcc.uchile.cl/~mtoro/cursos/BD2021/zoom_clase01.mp4)
 [03 - Modelo Relacional](https://github.com/CC3201/2021-2/raw/main/Clases/03-Modelo_Relacional.pdf) | [Sección 1](https://users.dcc.uchile.cl/~cgutierr/cursos/BD2021/clase3-modeloRelacional.mp4), [Sección 2](https://users.dcc.uchile.cl/~mtoro/cursos/BD2021/zoom_clase03.mp4)
 [04 - Álgebra Relacional](https://github.com/CC3201/2021-2/raw/main/Clases/04-Algebra_Relacional.pdf) | [Sección 1](#), [Sección 2](https://users.dcc.uchile.cl/~mtoro/cursos/BD2021/zoom_clase04.mp4)
+[05 - SQL (I)](https://github.com/CC3201/2021-2/raw/main/Clases/05-SQL(I).pdf) | [Sección 1](#), [Sección 2](https://users.dcc.uchile.cl/~mtoro/cursos/BD2021/zoom_clase05.mp4)
